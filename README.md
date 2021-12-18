@@ -1,7 +1,7 @@
 Arquivo leia-me da atividade 2 -  UC7 - Senai - Versionamento.
 - Mudanças feitas no arquivo README.md na branch checkout que não afetaram os arquivos da master.
 
-Com o comando: git pull origin pagamento, fiz a mesclagem da branch pagamento com a branch checkout, acarretando os conflitos abaixo: 
+Com o comando: git pull origin pagamento, fiz a unificação da branch pagamento com a branch checkout, acarretando os conflitos abaixo, pois modifiquei em ambas na mesma linha: 
 
 SOLUÇÃO: Fiz as alterações necessárias nos arquivos e reenviei para o Github.
 
