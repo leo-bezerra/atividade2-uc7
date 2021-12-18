@@ -1,1 +1,1 @@
-Arquivo ativi2-uc7 da master não afetado pela modificação feita no ativi2-uc7 na branch checkout.
+Mudança no arquivo ativi2-uc7 da branch pagamento. 
