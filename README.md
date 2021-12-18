@@ -1,2 +1,2 @@
-Arquivo leia-me da atividade 2 -  UC7 - Senai - Versionamento
-Alteracao na linha 2 na branch checkout
+Arquivo leia-me da atividade 2 -  UC7 - Senai - Versionamento.
+Mudanças feitas no arquivo README.md na branch checkout que não afetaram os arquivos da master.
