@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 mudança no arquivo na branch master
 Alteracao na linha 2 do develop
+=======
+mudança no arquivo na branch master linha 1
+mudança linha 2 do ativi2-uc7 na branch carrinho
+>>>>>>> develop
